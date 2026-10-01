@@ -1,12 +1,13 @@
 DYNÓW – MOJA MAŁA OJCZYZNA
 
-Pliki strony:
-- index.html – strona główna
-- historia.html – historia Dynowa
-- miejsca.html – ciekawe miejsca
-- tradycje.html – ludzie i tradycje
-- galeria.html – galeria
-- style.css – wygląd strony
-- images/ – obrazki zapasowe
+Strona internetowa przedstawiająca historię, ciekawe miejsca,
+tradycje i charakterystyczne elementy Dynowa.
 
-Po wgraniu nowych plików do GitHub Pages strona zaktualizuje się automatycznie.
+Pliki:
+- index.html
+- historia.html
+- miejsca.html
+- tradycje.html
+- galeria.html
+- style.css
+- images/
