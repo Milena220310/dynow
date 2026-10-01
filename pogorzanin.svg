@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#cce8c1"/><rect y="470" width="1200" height="230" fill="#8a8a8a"/>
+<rect y="520" width="1200" height="12" fill="#555"/><rect y="575" width="1200" height="12" fill="#555"/>
+<rect x="150" y="300" width="620" height="190" rx="25" fill="#26352e"/><rect x="770" y="330" width="250" height="160" rx="20" fill="#a83f38"/>
+<circle cx="260" cy="520" r="48" fill="#222"/><circle cx="650" cy="520" r="48" fill="#222"/><circle cx="870" cy="520" r="48" fill="#222"/>
+<rect x="215" y="335" width="110" height="65" fill="#a9d4df"/><rect x="360" y="335" width="110" height="65" fill="#a9d4df"/>
+<rect x="505" y="335" width="110" height="65" fill="#a9d4df"/>
+<text x="600" y="650" text-anchor="middle" font-family="Arial" font-size="44" fill="#fff">Pogórzanin</text></svg>

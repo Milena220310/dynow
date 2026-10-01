@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#dceff7"/><rect y="390" width="1200" height="310" fill="#c8c8c8"/>
+<rect x="120" y="250" width="250" height="180" fill="#e6a15c"/><rect x="390" y="220" width="250" height="210" fill="#f0cf6a"/>
+<rect x="660" y="240" width="230" height="190" fill="#d97c72"/><rect x="910" y="270" width="170" height="160" fill="#e5b36c"/>
+<polygon points="120,250 245,170 370,250" fill="#8b4038"/><polygon points="390,220 515,140 640,220" fill="#9a453d"/>
+<polygon points="660,240 775,160 890,240" fill="#843f3f"/><polygon points="910,270 995,205 1080,270" fill="#87423d"/>
+<circle cx="600" cy="530" r="85" fill="#a7d8e8"/><circle cx="600" cy="530" r="22" fill="#888"/>
+<text x="600" y="650" text-anchor="middle" font-family="Arial" font-size="44" fill="#333">Rynek w Dynowie</text></svg>

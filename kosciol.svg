@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#e9edf2"/><rect y="570" width="1200" height="130" fill="#aaa"/>
+<rect x="360" y="240" width="480" height="330" fill="#f2eee5"/><polygon points="330,240 870,240 600,90" fill="#b84b45"/>
+<rect x="430" y="135" width="95" height="330" fill="#eee7d9"/><polygon points="420,135 535,135 477,45" fill="#b84b45"/>
+<rect x="675" y="135" width="95" height="330" fill="#eee7d9"/><polygon points="665,135 780,135 722,45" fill="#b84b45"/>
+<rect x="545" y="390" width="110" height="180" fill="#7b4a38"/><circle cx="600" cy="325" r="55" fill="#8fb4c8"/>
+<text x="600" y="650" text-anchor="middle" font-family="Arial" font-size="42" fill="#333">Kościół św. Wawrzyńca</text></svg>
